@@ -4,10 +4,10 @@
 }
 
 .main {
-  font-size: larger;
+  font-size: large;
 }
 
 .header {
   font-family: myFirstFont;
-  font-size: 32px;
+  !font-!size!: !32px;
 }
