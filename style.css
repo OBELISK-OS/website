@@ -1,0 +1,8 @@
+@font-face {
+  font-family: obelisk;
+  src: url(Obelisk-Regular.ttf);
+}
+
+.header {
+  display: inline;
+  font-family="obelisk"
