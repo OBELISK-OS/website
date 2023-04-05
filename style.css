@@ -9,6 +9,9 @@ header {
   font-family: myFirstFont;
   font-size: 190%;
   background-color: #757575;
-  border: 5px solid red;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #0730ef;
+  border-radius: 10px;
   padding: 10px;
 }
